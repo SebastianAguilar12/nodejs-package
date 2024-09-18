@@ -26,7 +26,7 @@
   "type": "module",
   "homepage": "https://github.com/hexlet-boilerplates/nodejs-package#readme",
   "dependencies": {
-    "debug": "^4.3.5",
+    "debug": "^4.3.7",
     "lodash": "^4.17.21"
   },
   "lint-staged": {
@@ -36,7 +36,7 @@
     "@eslint/eslintrc": "^3.1.0",
     "@eslint/js": "^9.10.0",
     "@jest/globals": "^29.7.0",
-    "eslint": "^8.57.1",
+    "eslint": "^9.10.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.30.0",
     "globals": "^15.9.0",
